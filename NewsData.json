@@ -1,0 +1,134 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "titre": "Nouvel article 1",
+        "texte": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "images": ["image1.jpg"],
+        "date_creation": "2023-07-09",
+        "auteur": {
+          "id": 2,
+          "nom": "Dupont",
+          "prenom": "Alice"
+        },
+        "nombre_likes": 10
+      },
+      {
+        "id": 2,
+        "titre": "Nouvel article 2",
+        "texte": "Praesent tempor condimentum nisl, sed finibus elit aliquam et.",
+        "images": ["image2.jpg", "image3.jpg"],
+        "date_creation": "2023-07-10",
+        "auteur": {
+          "id": 3,
+          "nom": "Smith",
+          "prenom": "Emma"
+        },
+        "nombre_likes": 15
+      },
+      {
+        "id": 3,
+        "titre": "Nouvel article 3",
+        "texte": "Aenean ac eros vel turpis sagittis semper in vitae tortor.",
+        "images": ["image4.jpg"],
+        "date_creation": "2023-07-11",
+        "auteur": {
+          "id": 4,
+          "nom": "Martin",
+          "prenom": "Louis"
+        },
+        "nombre_likes": 5
+      },
+      {
+        "id": 4,
+        "titre": "Nouvel article 4",
+        "texte": "Nullam suscipit ante vitae justo efficitur varius.",
+        "images": ["image5.jpg", "image6.jpg"],
+        "date_creation": "2023-07-12",
+        "auteur": {
+          "id": 1,
+          "nom": "Doe",
+          "prenom": "John"
+        },
+        "nombre_likes": 8
+      },
+      {
+        "id": 5,
+        "titre": "Nouvel article 5",
+        "texte": "Phasellus tempus, est vitae euismod consequat, purus ex pharetra dolor, eu sagittis lacus purus nec risus.",
+        "images": ["image7.jpg"],
+        "date_creation": "2023-07-13",
+        "auteur": {
+          "id": 2,
+          "nom": "Dupont",
+          "prenom": "Alice"
+        },
+        "nombre_likes": 12
+      },
+      {
+        "id": 6,
+        "titre": "Nouvel article 6",
+        "texte": "Curabitur faucibus lacinia leo in lobortis.",
+        "images": ["image8.jpg", "image9.jpg"],
+        "date_creation": "2023-07-14",
+        "auteur": {
+          "id": 3,
+          "nom": "Smith",
+          "prenom": "Emma"
+        },
+        "nombre_likes": 20
+      },
+      {
+        "id": 7,
+        "titre": "Nouvel article 7",
+        "texte": "Sed dignissim orci eget elit efficitur, at maximus orci convallis.",
+        "images": ["image10.jpg"],
+        "date_creation": "2023-07-15",
+        "auteur": {
+          "id": 4,
+          "nom": "Martin",
+          "prenom": "Louis"
+        },
+        "nombre_likes": 3
+      },
+      {
+        "id": 8,
+        "titre": "Nouvel article 8",
+        "texte": "Vestibulum condimentum tincidunt ligula, eget interdum urna aliquet eget.",
+        "images": ["image11.jpg", "image12.jpg"],
+        "date_creation": "2023-07-16",
+        "auteur": {
+          "id": 1,
+          "nom": "Doe",
+          "prenom": "John"
+        },
+        "nombre_likes": 6
+      },
+      {
+        "id": 9,
+        "titre": "Nouvel article 9",
+        "texte": "Etiam ut dolor elementum, euismod elit vitae, vulputate purus.",
+        "images": ["image13.jpg"],
+        "date_creation": "2023-07-17",
+        "auteur": {
+          "id": 2,
+          "nom": "Dupont",
+          "prenom": "Alice"
+        },
+        "nombre_likes": 18
+      },
+      {
+        "id": 10,
+        "titre": "Nouvel article 10",
+        "texte": "Fusce feugiat mauris sit amet pharetra semper.",
+        "images": ["image14.jpg", "image15.jpg"],
+        "date_creation": "2023-07-18",
+        "auteur": {
+          "id": 3,
+          "nom": "Smith",
+          "prenom": "Emma"
+        },
+        "nombre_likes": 9
+      }
+    ]
+  }

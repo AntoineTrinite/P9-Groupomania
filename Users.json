@@ -1,0 +1,45 @@
+{
+    "Users": [
+      {
+        "id": 1,
+        "nom": "Doe",
+        "prenom": "John",
+        "age": 30,
+        "adresse_mail": "johndoe@example.com",
+        "password": "monMotDePasseSecret",
+        "profession": "Ingénieur",
+        "groupes": ["compta", "reunion", "projets"]
+      },
+      {
+        "id": 2,
+        "nom": "Dupont",
+        "prenom": "Alice",
+        "age": 25,
+        "adresse_mail": "alice.dupont@example.com",
+        "password": "monMotDePasse123",
+        "profession": "Comptable",
+        "groupes": ["compta", "reunion", "projets"]
+      },
+      {
+        "id": 3,
+        "nom": "Smith",
+        "prenom": "Emma",
+        "age": 35,
+        "adresse_mail": "emma.smith@example.com",
+        "password": "secret123",
+        "profession": "Analyste financier",
+        "groupes": ["reunion", "projets"]
+      },
+      {
+        "id": 4,
+        "nom": "Martin",
+        "prenom": "Louis",
+        "age": 28,
+        "adresse_mail": "louis.martin@example.com",
+        "password": "monMotDePasseSecure",
+        "profession": "Chef de projet",
+        "groupes": ["projets"]
+      }
+    ]
+  }
+  
